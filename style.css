@@ -106,4 +106,7 @@
   .row-special {
     margin: 50px auto;
   }
-  
+
+  .text-col {
+      margin-bottom: 30px;
+  }
